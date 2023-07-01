@@ -24,16 +24,10 @@ permalink: /cleanroom-training.html
 > You must use CRMH Wi-Fi (intranet) to access the online test!
 
 1. To create an account in the CRMH booking system, send your name, email and phone to the lab manager by email/WeChat. 
-
 2. Finish the online test. The passing grade is 12 out of 15 for both parts.
-
    - [Part 1: True-or-false](http://192.168.20.43/clean-room-test-tf/)
-
    - [Part 2: Multiple choice](http://192.168.20.43/clean-room-test-mc/)
-
 3. Forward the two emails of your passing scores to the lab manager.
-
-
 
 ## Step 3: Cleanroom walk-through
 
@@ -41,10 +35,7 @@ permalink: /cleanroom-training.html
 - [cleanroom-practical-training-log.docx](/files/cleanroom-practical-training-log.docx)
 - The lab manager will walk you through the cleanroom. Sign the practical training log. 
 
-
-
 ## Step 4: Risk assessment
 
 -  [cleanroom-risk-assessment.docx](/files/cleanroom-risk-assessment.docx) 
 - Complete the risk assessment form and send it to the lab manager.
-
