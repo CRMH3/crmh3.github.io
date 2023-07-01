@@ -7,7 +7,7 @@ permalink: /nav.html
 ## Table of Contents
 
 - <a href="#bio">Biology Lab (15W)</a>
-- <a href="chem">Chemistry Lab (9W)</a>
+- <a href="#chem">Chemistry Lab (9W)</a>
 
 
 
@@ -15,7 +15,6 @@ permalink: /nav.html
 
 - [Solid biological waste disposal](/files/solid-bio-waste-label.docx)  
   Contact lab manager for detail
-
 - [Cleanroom training](/cleanroom-training.html)  
   Compulsory for all cleanroom users
 - [Cleanroom consumables](/files/cleanroom-consumables.xlsx)  
@@ -29,5 +28,5 @@ permalink: /nav.html
 
 ## <a name="chem" href="#page">Chemistry Lab (9W)</a>
 
-- [Dangerous goods (DG)](/dg.html)  
+- [Dangerous goods](/dangerous-goods.html)  
   Exemption quantity and disposal
