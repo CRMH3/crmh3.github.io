@@ -6,18 +6,28 @@ permalink: /nav.html
 
 ## Table of Contents
 
-- <a href="#cleanroom">Cleanroom</a>  
-  Training, operation and management
+- <a href="#bio">Biology Lab (15W)</a>
+- <a href="chem">Chemistry Lab (9W)</a>
 
 
 
-## <a name="cleanroom" href="#page">Cleanroom</a>
+## <a name="bio" href="#page">Biology Lab (15W)</a>
+
+- [Solid biological waste disposal](/files/solid-bio-waste-label.docx)  
+  Contact lab manager for detail
 
 - [Cleanroom training](/cleanroom-training.html)  
   Compulsory for all cleanroom users
+- [Cleanroom consumables](/files/cleanroom-consumables.xlsx)  
+  Fill in and send back to lab manager
 - [Incubator Steri-run](/incubator-steri-run.html)  
   To sterilize CO₂ incubator by heat
 - [Cleanroom iPad: microscope](/files/cleanroom-ipad-microscope.pdf)  
   How to export microscope images
 - [Cleanroom iPad: LINE](/files/cleanroom-ipad-line.pdf)  
   Communicate in case of emergency
+
+## <a name="chem" href="#page">Chemistry Lab (9W)</a>
+
+- [Dangerous goods (DG)](/dg.html)  
+  Exemption quantity and disposal
