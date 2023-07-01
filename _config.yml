@@ -28,19 +28,8 @@ google_analytics: ""
 
 # Site navigation - each item must have a title and a url.
 navigation:
-  - text: Blog
-    url: /tags/
-  - text: Test1
-    url: /test
-  - text: Test2
-    url: /test
-  - text: Test3
-    url: /test
-  - text: Test4
-    url: /test
-  - text: Test5
-    url: /test
-
+  - text: Navigation
+    url: /nav
 # The shortname for your Disqus site to enable comments.
 disqus:
 
