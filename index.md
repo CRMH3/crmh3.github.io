@@ -5,7 +5,7 @@ title: CRMH-RP3
 
 ## Upcoming events
 
-### 2023-07-10 / to be determined / HKSTP safety inspection (15W)
+**2023-07-10 / to be determined / HKSTP safety inspection (15W)**
 
 ---
 ## Past events

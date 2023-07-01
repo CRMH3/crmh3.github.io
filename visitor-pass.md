@@ -6,7 +6,7 @@ permalink: /visitor-pass.html
 
 # Apply for visitor pass
 
-> Prepare the following documents and send to the lab manager. You also need an octopus card (or a device with NFC) onto which your office/lab access will be registered.
+Prepare the following documents and send to the lab manager. You also need an octopus card (or a device with NFC) onto which your office/lab access will be registered.
 
 ### Documents for HR
 1. Signed and stamped PI letter [(template)](/files/visitor-pass-pi-letter-template.pdf).
@@ -16,7 +16,7 @@ permalink: /visitor-pass.html
 
 ### Documents for F&OC
 
-> For visitors that will conduct R&D activities in CRMH only.
+> Only for visitors that will conduct R&D activities in CRMH.
 
 1. [Visitor pass for lab access (F&OC)](/files/visitor-pass-for-lab-access-foc.pdf) signned by a full-time staff and PI;
 2. Email sent by PI to Professor Micky Tortorella and the lab manager, CC to your university/department's HR or general office [(template)](/files/visitor-pass-pi-email-template.pdf).
