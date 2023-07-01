@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Apply for annual leave
+title: Annual leave
 permalink: /annual-leave.html
 ---
 
-# Apply for annual leave
+# Annual leave
 
-You must request for PI approval by email, before applying for annual leave in the Kingdee system. 
+> You must seek PI approval before applying for annual leave in Kingdee!
 
 ![](https://raw.githubusercontent.com/tosingfung/images/master/image-20230701164016412.png)
 

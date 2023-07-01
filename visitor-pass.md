@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Apply for visitor pass
+title: Visitor pass
 permalink: /visitor-pass.html
 ---
 

@@ -16,13 +16,10 @@ permalink: /nav.html
 
 ## <a name="admin" href="#page">Administration</a>
 
-- [Apply for visitor pass](/visitor-pass.html)
-- [Apply for annual leave](/annual-leave.html)
+- [Visitor pass](/visitor-pass.html)
+- [Annual leave](/annual-leave.html)
 - [BOC group insurance](/boc-group-insurance.html)
 - [Request for travel](/request-for-travel.html)
-- [Approval for non-R&D purchase](/purchase-non-rnd.html)
-- [Approval for R&D purchase](/purchase-rnd.html)
-- [Approval for R&D purchase (CRO/外协)](/purchase-rnd-cro.html)
 
 ## <a name="bio" href="#page">Biology Lab (15W)</a>
 
