@@ -7,7 +7,7 @@ permalink: /dangerous-goods.html
 # Dangerous Goods
 
 ## UN code and GEQ
-- Download from supplier's website
+- Download SDS from supplier's website
 - If not available, try following sources:
   - [Fisher Scientific](https://www.fishersci.com/us/en/catalog/search/sdshome.html)
   - [Chem Blink](https://www.chemblink.com/msds_list.htm)
@@ -69,8 +69,8 @@ permalink: /dangerous-goods.html
   Nature of Business: R&D
 - **Activity or Process Which Produces ‘Part A’ Chemical Waste(s)**  
   Purchased but not used (not suitable for experiments)
-- **Waste Description **  
-  Waste Code: check [this document](/files/guide-to-registration-of-chemical-waste-producers.pdf). For example, for sodium hydride in 60% oil, the code is Z00S04. Z00 代表因过期或损坏而产生. S for solid. 04 for dangerous goods class 4.3 (Substances which, in contact with water, emit flammable gases).  
+- **Waste Description**  
+  Waste Code: check [this document](/files/dg-guide-to-registration-of-chemical-waste-producers.pdf). For example, for sodium hydride in 60% oil, the code is Z00S04. Z00 代表因过期或损坏而产生. S for solid. 04 for dangerous goods class 4.3 (Substances which, in contact with water, emit flammable gases).  
   Previous Notification: N  
   Dangerous Goods: Y  
   Category: Class X  
@@ -81,5 +81,6 @@ permalink: /dangerous-goods.html
   To be disposed of by Ecospace Limited.
 - **Declaration**  
   This part needs to be signed and stamped by HKSTP. Because the digital is usually distorted, a physical stamp can be requested via Brian.
-- Send the **hard copy** of the EPD132-PART A form to the following address: Environmental Protection Department, Office for Licence and Permit Applications,10/F., Shatin Government Offices, No.1 Sheung Wo Che Road, Shatin, NT
+
+- Seng the **hard copy** of the EPD132-PART A form to the following address: Environmental Protection Department, Office for Licence and Permit Applications,10/F., Shatin Government Offices, No.1 Sheung Wo Che Road, Shatin, NT
 - Wait for HKSTP to reply when license is ready

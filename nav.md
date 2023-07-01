@@ -6,15 +6,18 @@ permalink: /nav.html
 
 ## Table of Contents
 
-- <a href="#bio">Biology Lab (15W)</a>
-- <a href="#chem">Chemistry Lab (9W)</a>
+- Research
+  - <a href="#bio">Biology Lab (15W)</a>
+  - <a href="#chem">Chemistry Lab (9W)</a>
+  - [HKSTP core facilities](/hkstp-core-facilities.html)
+
 
 
 
 ## <a name="bio" href="#page">Biology Lab (15W)</a>
 
 - [Solid biological waste disposal](/files/solid-bio-waste-label.docx)  
-  Contact lab manager for detail
+  Contact lab manager to proceed 
 - [Cleanroom training](/cleanroom-training.html)  
   Compulsory for all cleanroom users
 - [Cleanroom consumables](/files/cleanroom-consumables.xlsx)  
@@ -29,4 +32,4 @@ permalink: /nav.html
 ## <a name="chem" href="#page">Chemistry Lab (9W)</a>
 
 - [Dangerous goods](/dangerous-goods.html)  
-  Exemption quantity and disposal
+  SDS, UN code, GEQ and DG disposal

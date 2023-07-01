@@ -37,7 +37,7 @@ permalink: /incubator-steri-run.html
 
 ### Reference
 
-- [Heracell VIOS CO₂ incubator manual ](/files/Heracell-VIOS-CO2-Incubator-manual.pdf)
+- [Heracell VIOS CO₂ incubator manual ](/files/incubator-manual.pdf)
 
 
 
