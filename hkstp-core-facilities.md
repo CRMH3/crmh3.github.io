@@ -33,9 +33,9 @@ permalink: /hkstp-core-facilities.html
 
 ## Safety assessment
 
-> Some R&D activities must be approved by HKSTP’s Safety Office (SHE Team). Check with BSC.
+> Some R&D activities must be approved by HKSTP’s Safety Office. Check with BSC.
 
 1. Register for HKSTP OnePass with CRMH email.
-2. Fill in [SHE e-form](https://secure-web.cisco.com/1pWLomjUgh2hQrisVotFMd6YRhzGfgMMCcnFtWZ1S_32Z1CBC7vjHVoRciNjzBW3ex6kJ6BVqsbW7IxYhPdkXbuFgr1UQwfYtaoObkcA8os9_wnkCvkmwGhBYj-kHmcT81u2JyZplOtwwSkxOlrxc8UnXRtjv3jE76u8GMk8S04i-w5p9_oSBnWWPzkeIbU8FT5sdZTTLJkAANpJK6VvJvzyaC5H3ArUvf6Uwk1loEbCAhEgWmArHrVZVTxGvnMRaFH90GQYmHXvQAVQ1Xw7yMooTiIymrvb4t2E-mF1j6UFFhJ0_MNuUdswePUEyTwMi/https%3A%2F%2Fitapps.plumsail.io%2Fa032535b-7d91-4f5d-b149-a42e181ae60d).
+2. Fill in this [e-form](https://secure-web.cisco.com/1pWLomjUgh2hQrisVotFMd6YRhzGfgMMCcnFtWZ1S_32Z1CBC7vjHVoRciNjzBW3ex6kJ6BVqsbW7IxYhPdkXbuFgr1UQwfYtaoObkcA8os9_wnkCvkmwGhBYj-kHmcT81u2JyZplOtwwSkxOlrxc8UnXRtjv3jE76u8GMk8S04i-w5p9_oSBnWWPzkeIbU8FT5sdZTTLJkAANpJK6VvJvzyaC5H3ArUvf6Uwk1loEbCAhEgWmArHrVZVTxGvnMRaFH90GQYmHXvQAVQ1Xw7yMooTiIymrvb4t2E-mF1j6UFFhJ0_MNuUdswePUEyTwMi/https%3A%2F%2Fitapps.plumsail.io%2Fa032535b-7d91-4f5d-b149-a42e181ae60d).
 3. Wait for the approval email from HKSTP.
 
