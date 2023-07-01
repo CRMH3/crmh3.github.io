@@ -8,7 +8,7 @@ permalink: /request-for-travel.html
 
 All full-time staff must seek approval from PI and Centre director, before travelling outside Hong Kong for academic or other events.
 
-### Before the trip
+## Before the trip
 
 Confirm with your supervisor that he/she endorses your trip. For academic events, obtain the invitatioin letter from the organizer. If you need to register for an event, screenshot all the transaction and payment. Estimate the travel expense, including the event registration fee, inter-city transportation, urban transportation, accommodation and meal expense. Check with the lab manager for the updated Centre policy on the reimbursement of travel expense.
 
