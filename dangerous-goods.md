@@ -82,5 +82,5 @@ permalink: /dangerous-goods.html
 - **Declaration**  
   This part needs to be signed and stamped by HKSTP. Because the digital is usually distorted, a physical stamp can be requested via Brian.
 
-- Seng the **hard copy** of the EPD132-PART A form to the following address: Environmental Protection Department, Office for Licence and Permit Applications,10/F., Shatin Government Offices, No.1 Sheung Wo Che Road, Shatin, NT
+- Send the **hard copy** of the EPD132-PART A form to the following address: Environmental Protection Department, Office for Licence and Permit Applications,10/F., Shatin Government Offices, No.1 Sheung Wo Che Road, Shatin, NT
 - Wait for HKSTP to reply when license is ready
