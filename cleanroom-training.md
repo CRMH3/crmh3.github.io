@@ -29,12 +29,12 @@ permalink: /cleanroom-training.html
 
 - [Practical training checklist](/files/cleanroom-practical-training-checklist.docx)
 - [Practical training log](/files/cleanroom-practical-training-log.docx)
-- The lab manager will walk you through the cleanroom. Sign the practical training log. This record will be sent to F&OC for archiving.
+- The lab manager will walk you through the cleanroom. Sign the practical training log. 
 
 
 
 ## Step 4: Risk assessment
 
 -  [Risk assessment form](/files/cleanroom-risk-assessment.docx) 
-- Complete the risk assessment form and send it to the lab manager. This record will be sent to F&OC for archiving.
+- Complete the risk assessment form and send it to the lab manager.
 
