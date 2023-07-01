@@ -9,7 +9,7 @@
 lang: en-US
 
 # Site title
-title: "CRMH-RP3 Homepage"
+title: "CRMH-RP3"
 
 # A description of your site for meta tag, search engine results.
 description: ""
@@ -49,7 +49,7 @@ accent_color: '#2d72d9'
 
 # Site footer
 footer:
-  content: "Copyright &copy; 2020-2023 To Sing Fung<br>Powered by Jekyll. Theme modified from Scriptor"
+  content: "Copyright &copy; 2023 Martin To Sing Fung<br>Powered by Jekyll. Theme modified from Scriptor"
   has_social: false
   
 # Plugins
