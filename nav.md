@@ -6,18 +6,27 @@ permalink: /nav.html
 
 ## Table of Contents
 
-- Administration
-  - Finance
-  - Human Resource
+- <a href="#admin">Administration
 - Research
   - <a href="#bio">Biology Lab (15W)</a>
   - <a href="#chem">Chemistry Lab (9W)</a>
-  - [HKSTP core facilities](/hkstp-core-facilities.html)
+  - [HKSTP Core Facilities](/hkstp-core-facilities.html)
+
+---
+
+## <a name="admin" href="#page">Administration</a>
+
+- [Apply for visitor pass](/visitor-pass.html)
+- [BOC group insurance](/boc-group-insurance.html)
+- [Request for travel](/request-for-travel.html)
+- [Approval for non-R&D purchase](/purchase-non-rnd.html)
+- [Approval for R&D purchase](/purchase-rnd.html)
+- [Approval for R&D purchase (CRO/外协)](/purchase-rnd-cro.html)
 
 ## <a name="bio" href="#page">Biology Lab (15W)</a>
 
 - [Cleanroom training](/cleanroom-training.html)
-- [Incubator Steri-run](/incubator-steri-run.html)
+- [Incubator steri-run](/incubator-steri-run.html)
 - [cleanroom-ipad-microscope.pdf](/files/cleanroom-ipad-microscope.pdf)
 - [cleanroom-ipad-line.pdf](/files/cleanroom-ipad-line.pdf)
 - [cleanroom-consumables.xlsx](/files/cleanroom-consumables.xlsx)
@@ -25,5 +34,4 @@ permalink: /nav.html
 
 ## <a name="chem" href="#page">Chemistry Lab (9W)</a>
 
-- [Dangerous goods](/dangerous-goods.html)  
-  SDS, UN code, GEQ and DG disposal
+- [Dangerous goods](/dangerous-goods.html)
