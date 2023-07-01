@@ -20,7 +20,7 @@ margin: 0 0 0">
 
 <h2><a name="cleanroom">Cleanroom</a></h2>
 
-- [Cleanroom training](/cleanroom-training.html)
+- [Cleanroom training](/cleanroom-training.html)  
   Compulsory for all cleanroom users
 
 <div style="text-align:right"><a href="#page">Back to top</a></div>
