@@ -7,21 +7,13 @@ permalink: /dangerous-goods.html
 # Dangerous Goods
 
 ## UN code and GEQ
-
 - Download from supplier's website
-
 - If not available, try following sources:
-
   - [Fisher Scientific](https://www.fishersci.com/us/en/catalog/search/sdshome.html)
-
   - [Chem Blink](https://www.chemblink.com/msds_list.htm)
-
 - UN code under 14. transport information.
-
 - Check GEQ in [HK e-legislation](https://www.elegislation.gov.hk/hk/cap295E).
-
   - Gas/liquid: 1 unit = 1 L
-
   - Solid: 1 unit = 1 Kg
 
 ## Schedule 2 DG class
@@ -64,8 +56,7 @@ permalink: /dangerous-goods.html
 
 ## EPA PART A license
 
-- Fill in the EPD132-PART A
-
+- Fill in the EPD132-PART A:
 - **Waste Producer**  
   Full Name: Hong Kong Science and Technology Parks Corporation  
   Waste Producer No.: 8314-729-H4048-01  
@@ -85,11 +76,10 @@ permalink: /dangerous-goods.html
   Category: Class X  
   Physical Form: Solid/Liquid/Sludge/Others  
   Frequency of Waste Production: One Off  
-  Estimated Quantity for Disposal: X L/Kg  
+  Estimated Quantity for Disposal: X L/Kg
 - **Proposed Disposal Arrangement**  
   To be disposed of by Ecospace Limited.
 - **Declaration**  
   This part needs to be signed and stamped by HKSTP. Because the digital is usually distorted, a physical stamp can be requested via Brian.
-
-- Seng the **hard copy** of the EPD132-PART A form to the following address: Environmental Protection Department, Office for Licence and Permit Applications,10/F., Shatin Government Offices, No.1 Sheung Wo Che Road, Shatin, NT
+- Send the **hard copy** of the EPD132-PART A form to the following address: Environmental Protection Department, Office for Licence and Permit Applications,10/F., Shatin Government Offices, No.1 Sheung Wo Che Road, Shatin, NT
 - Wait for HKSTP to reply when license is ready
