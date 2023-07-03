@@ -23,8 +23,8 @@ permalink: /cleanroom-training.html
 
 > You must use CRMH Wi-Fi (intranet) to access the online test!
 
-1. To create an account in the CRMH booking system, send your name, email and phone to the lab manager by email/WeChat. 
-2. Finish the online test. The passing grade is 12 out of 15 for both parts.
+1. If you don't have an account in the CRMH booking system, send your name, email and phone to the lab manager.
+2. Finish the online test.
    - [Part 1: True-or-false](http://192.168.20.43/clean-room-test-tf/)
    - [Part 2: Multiple choice](http://192.168.20.43/clean-room-test-mc/)
 3. Forward the two emails of your passing scores to the lab manager.

@@ -23,6 +23,7 @@ permalink: /nav.html
 
 ## <a name="bio" href="#page">Biology Lab (15W)</a>
 
+- [Basic safety training](/basic-safety-training.html)
 - [Cleanroom training](/cleanroom-training.html)
 - [Incubator steri-run](/incubator-steri-run.html)
 - [cleanroom-ipad-microscope.pdf](/files/cleanroom-ipad-microscope.pdf)
