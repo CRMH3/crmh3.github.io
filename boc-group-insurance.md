@@ -10,15 +10,15 @@ When you report duty, you will receive your Bank of China (BOC) group insurance 
 
 ## Log in BOC group insurance
 
-[![](https://raw.githubusercontent.com/tosingfung/images/master/image-20230613140455202.png)](https://raw.githubusercontent.com/tosingfung/images/master/image-20230613140455202.png)
+[![](https://raw.githubusercontent.com/tosingfung/images/master/image-20230613140455202.png)](https://raw.githubusercontent.com/tosingfung/images/master/image-20230613140455202.png){:target="_blank"}
 
 #### Go to [http://www.bocgins.com/](http://www.bocgins.com/). Hover to **Service Support** on the top right corner. Click on **Group Medical Policy Enquiry**.
 
-[![](https://raw.githubusercontent.com/tosingfung/images/master/image-20230613142525591.png)](https://raw.githubusercontent.com/tosingfung/images/master/image-20230613142525591.png)
+[![](https://raw.githubusercontent.com/tosingfung/images/master/image-20230613142525591.png)](https://raw.githubusercontent.com/tosingfung/images/master/image-20230613142525591.png){:target="_blank"}
 
 #### Enter your information to log in.
 
-[![](https://raw.githubusercontent.com/tosingfung/images/master/image-20230613141809977.png)](https://raw.githubusercontent.com/tosingfung/images/master/image-20230613141809977.png)
+[![](https://raw.githubusercontent.com/tosingfung/images/master/image-20230613141809977.png)](https://raw.githubusercontent.com/tosingfung/images/master/image-20230613141809977.png){:target="_blank"}
 
 #### You can see your plan once you log in. Click on **Panel Doctor List** to search for eligible doctors. Click on **Out-Patient Claims** to upload your  medical bill.
 
