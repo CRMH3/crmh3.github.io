@@ -1,6 +1,7 @@
 ---
-layout: post
-tag: patent, quotation
+layout:post
+title:china-patent-agent-quote-price
+tag:patent,quotation
 ---
 
 以下是一个专利申请从撰写提交到授权的费用预估：
