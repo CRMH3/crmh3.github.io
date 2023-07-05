@@ -6,14 +6,15 @@ tag: patent
 
 以下是一个专利申请从撰写提交到授权的费用预估：
 
- 撰写及提交阶段
+1. 撰写及提交阶段
 
-1. - 撰写费：USD4000-5000
-   - 提交的基本官费：RMB950
-   - 提交的额外官费：
-     - 若权利要求超过10项，从第11项开始，每项加收RMB150
-     - 若说明书包括图总页数超过30页，从第31页开始，每页加收RMB50
-   - 提交的代理费：大约USD760
+- 撰写费：USD4000-5000
+
+- 提交的基本官费：RMB950
+- 提交的额外官费：
+  - 若权利要求超过10项，从第11项开始，每项加收RMB150
+  - 若说明书包括图总页数超过30页，从第31页开始，每页加收RMB50
+- 提交的代理费：大约USD760
 
 2. 实质审查阶段
 
@@ -25,10 +26,18 @@ tag: patent
 
 如果发明专利申请的实质审查进展顺利，则该申请可能在第4年授权。假设该申请在第4年授权，则办理登记授权手续（含授权当年的年费）的费用约为USD430,  含官费和代理费。中国专利局要求授权当年的年费需在办理登记授权手续时一并缴付。
 
+---
+
 Jessie Lam
+
 Patent Application Department
+
 China Patent Agent (H.K.) Ltd.
+
 22/F., Great Eagle Centre,
+
 23 Harbour Road, Wanchai, Hong Kong
+
 E-mail: patent@cpahkltd.com
+
 Website: www.cpahkltd.com
