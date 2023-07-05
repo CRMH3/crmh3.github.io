@@ -1,7 +1,7 @@
 ---
-layout:post
-title:china-patent-agent-quote-price
-tag:patent,quotation
+layout: post
+title: china-patent-agent-quote-price
+tag: patent
 ---
 
 以下是一个专利申请从撰写提交到授权的费用预估：
@@ -17,8 +17,6 @@ tag:patent,quotation
 
 2. 实质审查阶段
 
-3. 
-
 发明专利申请的实质审查请求应当在自申请日（有优先权的，指优先权日）起三年内提出。提交实质审查请求的费用约为USD600，含官费和代理费。 
 
 在进入实质审查阶段后，中国专利局的审查员将会发出审查意见通知书（Office Action）。答复一个Office Action的费用约为USD1000-2000，具体收费取决于Office Action的复杂程度。通常一个申请会收到2-3次的Office Action。
@@ -26,8 +24,6 @@ tag:patent,quotation
 3. 登记授权阶段
 
 如果发明专利申请的实质审查进展顺利，则该申请可能在第4年授权。假设该申请在第4年授权，则办理登记授权手续（含授权当年的年费）的费用约为USD430,  含官费和代理费。中国专利局要求授权当年的年费需在办理登记授权手续时一并缴付。
-
-
 
 Jessie Lam
 Patent Application Department
