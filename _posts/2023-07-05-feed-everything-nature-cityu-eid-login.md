@@ -24,6 +24,6 @@ https://www.nature.com/search?journal=nrd&order=date_desc
 | ------------------- | ----------------------------------------------------------- |
 | Feed title          | Nature Reviews Drug Discovery                               |
 | Feed link           | `https://www.nature.com/search?journal=nrd&order=date_desc` |
-| Item Title Template | 「{%3}」{%2}                                                |
+| Item Title Template | `「{%3}」{%2} `                                          |
 | Item Link Template  | `https://www-nature-com.ezproxy.cityu.edu.hk/{%1}`          |
 
