@@ -17,8 +17,6 @@ permalink: /cleanroom-training.html
 7. [Spills and Exposure](/files/cleanroom-sop-7.pdf)
 8. [Lentivirus, Adenovirus, Adeno-associated virus Handing Safety and Risk Management](/files/cleanroom-sop-8.pdf)
 
-
-
 ## Step 2: Pass the online test
 
 > You must use CRMH Wi-Fi (intranet) to access the online test!
