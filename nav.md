@@ -38,7 +38,7 @@ permalink: /nav.html
 
 - Solid biological waste
    - [Booking](https://sbs.hkstp.org/sbs) / [Google Sheet](https://docs.google.com/spreadsheets/d/1FYYopzFOtd9JYwxTRrz-dAvdlDV-Sq8wwtDJ9Z8xr1A)
-   - [solid-bio-waste-label.pdf](/files/solid-bio-waste-label.pdff)
+   - [solid-bio-waste-label.pdf](/files/solid-bio-waste-label.pdf)
 
 ## <a name="chem" href="#page">Chemistry Lab (9W)</a>
 
