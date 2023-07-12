@@ -29,12 +29,16 @@ permalink: /nav.html
 ## <a name="bio" href="#page">Biology Lab (15W)</a>
 
 - [Basic safety training](/basic-safety-training.html)
-- [Cleanroom training](/cleanroom-training.html)
-- [Incubator steri-run](/incubator-steri-run.html)
-- [cleanroom-ipad-microscope.pdf](/files/cleanroom-ipad-microscope.pdf)
-- [cleanroom-ipad-line.pdf](/files/cleanroom-ipad-line.pdf)
-- [cleanroom-consumables.xlsx](/files/cleanroom-consumables.xlsx)
-- [solid-bio-waste-label.docx](/files/solid-bio-waste-label.docx)
+- Cleanroom
+   - [Cleanroom training](/cleanroom-training.html)
+   - [Incubator steri-run](/incubator-steri-run.html)
+   - [cleanroom-ipad-microscope.pdf](/files/cleanroom-ipad-microscope.pdf)
+   - [cleanroom-ipad-line.pdf](/files/cleanroom-ipad-line.pdf)
+   - [cleanroom-consumables.xlsx](/files/cleanroom-consumables.xlsx)
+
+- Solid biological waste
+   - [Booking](https://sbs.hkstp.org/sbs) / [Google Sheet](https://docs.google.com/spreadsheets/d/1FYYopzFOtd9JYwxTRrz-dAvdlDV-Sq8wwtDJ9Z8xr1A)
+   - [solid-bio-waste-label.pdf](/files/solid-bio-waste-label.pdff)
 
 ## <a name="chem" href="#page">Chemistry Lab (9W)</a>
 

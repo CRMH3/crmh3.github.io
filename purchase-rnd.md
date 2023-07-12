@@ -16,7 +16,7 @@ permalink: /purchase-rnd.html
 
 ## Generating PO (before placing order)
 
->  If the supplier is not yet registered in the KingDee system, you need to ask the supplier to fill in this form: [中文版](/files/supplier-registration-form-(chi).pdf) / [English version](/files/supplier-registration-form-(eng).pdf). The supplier also need to provide the scanned copy of their BR (business registration). Send the completed form and BR to the lab manager.
+>  If the supplier is not yet registered in the KingDee system, you need to ask the supplier to fill in this form: [中文版](/files/supplier-registration-form-(chi).pdf) / [English version](/files/supplier-registration-form-(eng).pdf). The supplier also need to provide the scanned copy of their BR (business registration). Send them to the lab manager.
 
 1. Click [this link](https://cashkisi-my.sharepoint.com/:f:/g/personal/martin_fung_crmh-cas_org_hk/Ejln8dnGqwdFrYVwdLnNunsBRudISDB9TlKk-a_iZp4Qjw) to open the CRMH-RP3 shared folder in OneDrive. 
 2. Create a folder with your name and items to purchase.

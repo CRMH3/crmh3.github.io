@@ -5,11 +5,12 @@ title: CRMH-RP3
 
 ## Upcoming events
 
-**2023-07-10 / to be determined / HKSTP safety inspection (15W)**
+****
 
 ---
 ## Past events
 
+- 2023-07-10 / 14:30-15:30 / HKSTP safety inspection (15W, 5/F)
 - 2023-06-16 / 15:45-16:00 / HKSTP safety inspection (9W, CCC9/10)
 - 2023-06-07 / 14:00-17:00 / Webinar: Axion MEA and Omni Pro 12
 - 2023-06-06 / 14:30-16:30 / Training: CytoFLEX LX (flow analyzer)
