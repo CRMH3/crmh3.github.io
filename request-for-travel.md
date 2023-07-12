@@ -25,4 +25,7 @@ Complete the [Request for Travel](/files/request-for-travel.docx) and have it si
 2. After the PO is approved, print out the approval form.
 3. Submit the approval form, together with all original copies of supporting documents to the Finance Department.
 
+## Reference (Chinese)
 
+- [guildline-for-travel-reimburse-inside-china.pdf](/files/guildline-for-travel-reimburse-inside-china.pdf)
+- [guildline-for-travel-reimburse-international.pdf](/files/guildline-for-travel-reimburse-international.pdf)
