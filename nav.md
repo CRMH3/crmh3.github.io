@@ -6,7 +6,8 @@ permalink: /nav.html
 
 ## Table of Contents
 
-- <a href="#admin">Administration
+- <a href="#admin">Administration</a>
+- <a href="#finance">Finance</a>
 - Research
   - <a href="#bio">Biology Lab (15W)</a>
   - <a href="#chem">Chemistry Lab (9W)</a>
@@ -20,6 +21,10 @@ permalink: /nav.html
 - [Annual leave](/annual-leave.html)
 - [BOC group insurance](/boc-group-insurance.html)
 - [Request for travel](/request-for-travel.html)
+
+## <a name="finance" href="#page">Finance</a>
+
+- [Purchase (R&D)](/purchase-rnd.html)
 
 ## <a name="bio" href="#page">Biology Lab (15W)</a>
 
