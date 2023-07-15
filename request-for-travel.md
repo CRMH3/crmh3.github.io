@@ -16,7 +16,7 @@ Complete and sign the **Request for Travel** form:
 
 - [request-for-travel.pdf](/files/request-for-travel.pdf) 
 
-Request for approval by Professor Micky Tortorella and Professor Pan (Director). Alternatively, you can send them the Request for Travel by email, and ask them to endorse by replying to your email and save the emails as PDF files.
+Request for approval by Professor Micky Tortorella and Professor Pan (Director). Alternatively, you can send them the Request for Travel by email, and ask them to endorse by replying to your email. You should save their email replies as PDF files.
 
 ## During the trip
 
