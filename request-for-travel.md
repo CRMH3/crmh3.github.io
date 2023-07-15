@@ -12,7 +12,11 @@ All full-time staff must seek approval from PI and Centre director, before trave
 
 Confirm with your supervisor that he/she endorses your trip. For academic events, obtain the invitatioin letter from the organizer. If you need to register for an event, screenshot all the transaction and payment. Estimate the travel expense, including the event registration fee, inter-city transportation, urban transportation, accommodation and meal expense. Check with the lab manager for the updated Centre policy on the reimbursement of travel expense.
 
-Complete the [Request for Travel](/files/request-for-travel.docx) and have it signed by Professor Micky Tortorella and Professor Pan (Director). Alternatively, you can send them the Request for Travel by email, and ask them to endorse by replying to your email and save the emails as PDF files.
+Complete and sign the **Request for Travel** form:
+
+- [request-for-travel.pdf](/files/request-for-travel.pdf) 
+
+Request for approval by Professor Micky Tortorella and Professor Pan (Director). Alternatively, you can send them the Request for Travel by email, and ask them to endorse by replying to your email and save the emails as PDF files.
 
 ## During the trip
 
