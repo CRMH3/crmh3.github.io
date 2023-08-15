@@ -20,7 +20,3 @@ permalink: /2023-07-19-stephen-dalton.html
   - Dr. Cleopatra Neagoie
   - Wang Yican
   - Chen Huifeng
-
-## Photo
-
-[![20230719_125100_1](https://raw.githubusercontent.com/tosingfung/images/master/20230719_125100_1.jpg)](https://raw.githubusercontent.com/tosingfung/images/master/20230719_125100_1.jpg){:target="_blank"}
