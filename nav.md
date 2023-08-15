@@ -33,8 +33,7 @@ permalink: /nav.html
    - [Cleanroom training](/cleanroom-training.html)
    - [Incubator steri-run](/incubator-steri-run.html)
    - [cleanroom-ipad-microscope.pdf](/files/cleanroom-ipad-microscope.pdf)
-   - [cleanroom-ipad-line.pdf](/files/cleanroom-ipad-line.pdf)
-   - [cleanroom-consumables.xlsx](/files/cleanroom-consumables.xlsx)
+   - [cleanroom-ipad-LINE.pdf](/files/cleanroom-ipad-line.pdf)
 
 - Solid biological waste
    - [Booking](https://sbs.hkstp.org/sbs) / [Google Sheet](https://docs.google.com/spreadsheets/d/1FYYopzFOtd9JYwxTRrz-dAvdlDV-Sq8wwtDJ9Z8xr1A)
