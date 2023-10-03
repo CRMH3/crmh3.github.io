@@ -24,13 +24,13 @@ When you report duty, you will receive your Bank of China (BOC) group insurance 
 
 
 
-## Hospital list and claim forms
+## Attachments
 
-> Inpatient and dental claim forms must be send to BOC by mail with original copies of relevant documents. Outpatient claim forms can be uploaded.
+> Inpatient and dental claim forms must be send to BOC by mail with original copies of relevant documents. Outpatient claim forms can be uploaded online.
 
 - [boc-group-insurance-first-time-password.pdf](/files/boc-group-insurance-first-time-password.pdf)
+- [boc-group-insurance-benefit-schedule.pdf](/files/boc-group-insurance-benefit-schedule.pdf)
 - [boc-group-insurance-claim-form-dental.pdf](/files/boc-group-insurance-claim-form-dental.pdf)
 - [boc-group-insurance-claim-form-inpatient.pdf](/files/boc-group-insurance-claim-form-inpatient.pdf)
 - [boc-group-insurance-claim-form-outpatient.pdf](/files/boc-group-insurance-claim-form-outpatient.pdf)
 - [boc-group-insurance-mainland-china-hospital-list.pdf](/files/boc-group-insurance-mainland-china-hospital-list.pdf)
-
