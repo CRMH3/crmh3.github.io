@@ -28,8 +28,8 @@ google_analytics: ""
 
 # Site navigation - each item must have a title and a url.
 navigation:
-  - text: Navigation
-    url: /nav
+  - text: Calendar
+    url: https://calendar.google.com/calendar/embed?src=0d83f07c7b3ffb3d043313721dfc303648ba5a91fd6034c547a47f40e8d6bc75%40group.calendar.google.com&ctz=Asia%2FHong_Kong
 # The shortname for your Disqus site to enable comments.
 disqus:
 

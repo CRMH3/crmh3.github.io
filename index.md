@@ -3,22 +3,34 @@ layout: page
 title: CRMH-RP3
 ---
 
-## Upcoming events
+## CRMH Admin
 
-****
+- [Visitor pass](/visitor-pass.html)
+- [Annual leave](/annual-leave.html)
+- [BOC group insurance](/boc-group-insurance.html)
+- [Request for travel](/request-for-travel.html)
 
----
-## Past events
-- 2023-07-19 / 12:00-14:00 / [Seminar: Professor Stephen Dalton](/2023-07-19-stephen-dalton.html)
-- 2023-07-10 / 14:30-15:30 / HKSTP safety inspection (15W, 5/F)
-- 2023-06-16 / 15:45-16:00 / HKSTP safety inspection (9W, CCC9/10)
-- 2023-06-07 / 14:00-17:00 / Webinar: Axion MEA and Omni Pro 12
-- 2023-06-06 / 14:30-16:30 / Training: CytoFLEX LX (flow analyzer)
-- 2023-05-04 / 10:00-11:00 / Presentation by Mitenyi Head of Clinical Products
-- 2023-04-28 / 10:00-11:00 / Webinar: Agilent 4200 TapeStation 
-- 2023-04-20 / 10:30-11:30 / Webinar: Nikon confocal and microscopes
-- 2023-04-19 / 10:30-11:30 / Webinar: Carl Zeiss confocal and microscopes
-- 2023-04-17 / 10:00-12:00 / Training: QuantStudio 7 Pro qPCR
-- 2023-04-12 / 10:30-12:00 / Seminar: VIA extractor and spectral flow cytometry
-- 2023-04-03 / 12:30-14:00 / Seminar: Fighting Cancer through Innovations
-- 2023-03-31 / 15:00-16:00 / Webinar: Chromium Connect 10x Genomics 
+## HKSTP
+
+- [HKSTP Core Facilities](/hkstp-core-facilities.html)
+
+## Finance
+
+- [Purchase (R&D)](/purchase-rnd.html)
+
+## Biology Lab (15W)
+
+- [Basic safety training](/basic-safety-training.html)
+- Cleanroom
+  - [Cleanroom training](/cleanroom-training.html)
+  - [Incubator steri-run](/incubator-steri-run.html)
+  - [cleanroom-ipad-microscope.pdf](/files/cleanroom-ipad-microscope.pdf)
+  - [cleanroom-ipad-LINE.pdf](/files/cleanroom-ipad-line.pdf)
+
+- Solid biological waste
+  - [Booking](https://sbs.hkstp.org/sbs) / [solid-bio-waste-label.pdf](/files/solid-bio-waste-label.pdf)
+
+## Chemistry Lab (9W)
+
+- [Dangerous goods](/dangerous-goods.html)
+- [CCC room card](/ccc-room-card.html)
