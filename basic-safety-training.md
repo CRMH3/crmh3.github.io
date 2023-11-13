@@ -15,7 +15,7 @@ permalink: /basic-safety-training.html
 ## Step 2: Pass the online test
 1. Send your name, email and phone to Martin.
 2. Martin requests IT to create your account in the CRMH booking system.
-2. Use CRMH Wi-Fi (intranet) to access the online test.
+3. Use CRMH Wi-Fi (intranet) to access the online test.
    - [Biological Safety Test](http://192.168.20.43/biological-safety-test/)
    - [Chemical Safety Test](http://192.168.20.43/lab_test/)
-3. Forward the two emails of your passing scores to Martin.
+4. Forward the two emails of your passing scores to Martin.

@@ -7,7 +7,6 @@ permalink: /cleanroom-training.html
 # Cleanroom Training
 
 ## Step 1: Study cleanroom SOP
-
 1. [General Good Safety Practices](/files/cleanroom-sop-1.pdf)
 2. [Clean Zone Entry and Exit](/files/cleanroom-sop-2.pdf)
 3. [Material Entry and Exit](/files/cleanroom-sop-3.pdf)
@@ -18,22 +17,19 @@ permalink: /cleanroom-training.html
 8. [Lentivirus, Adenovirus, Adeno-associated virus Handing Safety and Risk Management](/files/cleanroom-sop-8.pdf)
 
 ## Step 2: Pass the online test
-
-> You must use CRMH Wi-Fi (intranet) to access the online test!
-
-1. If you don't have an account in the CRMH booking system, send your name, email and phone to the lab manager.
-2. Finish the online test.
+1. Send your name, email and phone to Martin.
+2. Martin requests IT to create your account in the CRMH booking system.
+3. Use CRMH Wi-Fi (intranet) to access the online test.
    - [Part 1: True-or-false](http://192.168.20.43/clean-room-test-tf/)
    - [Part 2: Multiple choice](http://192.168.20.43/clean-room-test-mc/)
-3. Forward the two emails of your passing scores to the lab manager.
+4. Forward the two emails of your passing scores to Martin.
 
 ## Step 3: Cleanroom walk-through
-
+- Martin or F&OC staff walk you through the cleanroom.
+- Sign the practical training log. 
 - [cleanroom-practical-training-checklist.docx](/files/cleanroom-practical-training-checklist.docx)
 - [cleanroom-practical-training-log.docx](/files/cleanroom-practical-training-log.docx)
-- The lab manager will walk you through the cleanroom. Sign the practical training log. 
 
 ## Step 4: Risk assessment
-
--  [cleanroom-risk-assessment.docx](/files/cleanroom-risk-assessment.docx) 
-- Complete the risk assessment form and send it to the lab manager.
+- Complete the risk assessment form and send it to Martin.
+- [cleanroom-risk-assessment.docx](/files/cleanroom-risk-assessment.docx) 
