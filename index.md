@@ -10,27 +10,23 @@ title: CRMH-RP3
 - [BOC group insurance](/boc-group-insurance.html)
 - [Request for travel](/request-for-travel.html)
 
-## HKSTP
-
-- [HKSTP Core Facilities](/hkstp-core-facilities.html)
-
 ## Finance
 
 - [Purchase (R&D)](/purchase-rnd.html)
 
-## Biology Lab (15W)
+## Laboratory
 
 - [Basic safety training](/basic-safety-training.html)
+- [HKSTP Core Facilities](/hkstp-core-facilities.html)
+- [Solid Biological Waste Disposal (PDF)](/files/solid-bio-waste-label.pdf)
 - Cleanroom
   - [Cleanroom training](/cleanroom-training.html)
-  - [Incubator steri-run](/incubator-steri-run.html)
-  - [cleanroom-ipad-microscope.pdf](/files/cleanroom-ipad-microscope.pdf)
-  - [cleanroom-ipad-LINE.pdf](/files/cleanroom-ipad-line.pdf)
+  - [How to: Perform Steri-run in Cleanroom Incubators (PDF)](/incubator-steri-run.html)
+  - [How to: Transfer Microscope Data in Cleanroom iPad (PDF)](/files/cleanroom-ipad-microscope.pdf)
+  - [How to: Use LINE in Cleanroom iPad (PDF)](/files/cleanroom-ipad-line.pdf)
 
-- Solid biological waste
-  - [Booking](https://sbs.hkstp.org/sbs) / [solid-bio-waste-label.pdf](/files/solid-bio-waste-label.pdf)
+- Chemistry
+  - [Chemical Co-working Centre (CCC)](/ccc.html)
+  - [Dangerous goods](/dangerous-goods.html)
 
-## Chemistry Lab (9W)
 
-- [Chemical Co-working Centre (CCC)](/ccc.html)
-- [Dangerous goods](/dangerous-goods.html)
