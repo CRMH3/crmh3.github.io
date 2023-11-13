@@ -32,5 +32,5 @@ title: CRMH-RP3
 
 ## Chemistry Lab (9W)
 
+- [Chemical Co-working Centre (CCC)](/ccc.html)
 - [Dangerous goods](/dangerous-goods.html)
-- [CCC room card](/ccc-room-card.html)

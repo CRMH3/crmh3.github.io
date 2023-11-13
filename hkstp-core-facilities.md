@@ -22,14 +22,18 @@ permalink: /hkstp-core-facilities.html
 ## Safety training
 > Access to BSC is only granted after you finish the safety training.
 
-1. Fill in [HKSTP-BSC-online-training.xlsx](/files/HKSTP-BSC-online-training.xlsx).
-2. Send it to BSC using CRMH email.
-3. BSC sends online quiz link to you.
-4. Complete and pass the online quiz.
-5. Reply to BSC and request a lab walk-through.
-6. After the walk-through, show staff ID and sign attendance.
-7. BSC sends to you an email to confirm your qualified user status.
-8. Forward the email to Carman Wong (HR) and request for access right to BSC.
+- Obtain your HKSTP SMART card from CRMH HR.
+- Finish BSC safety training:
+  1. Fill in [HKSTP-BSC-online-training.xlsx](/files/HKSTP-BSC-online-training.xlsx).
+  2. Send it to bsc@hkstp.org using CRMH email.
+  3. BSC sends online quiz link to you.
+  4. Complete and pass the online quiz.
+  5. Reply to BSC and request a lab walk-through.
+  6. Show staff ID and sign attendance.
+  7. BSC sends to you an confirmation email.
+- Forward BSC confirmation email to Martin.
+- Martin forward the email to CRMH HR.
+- CRMH HR request HKSTP to grant access right to your SMART card.
 
 ## Safety assessment
 
