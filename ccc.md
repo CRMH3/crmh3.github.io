@@ -6,7 +6,7 @@ permalink: /ccc.html
 
 # Chemical Co-working Centre (CCC)
 
-## Lift access to 9W 1/F
+## Lift Access to 9W 1/F
 - Obtain your HKSTP SMART card from CRMH HR.
 - Finish BSC safety training:
   1. Fill in [HKSTP-BSC-online-training.xlsx](/files/HKSTP-BSC-online-training.xlsx).

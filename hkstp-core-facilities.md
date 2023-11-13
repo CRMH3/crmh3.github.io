@@ -4,7 +4,7 @@ title: HKSTP core facilities
 permalink: /hkstp-core-facilities.html
 ---
 
-# HKSTP core facilities
+# HKSTP Core Facilities
 
 > For full-time CRMH staff only!!
 
@@ -19,7 +19,7 @@ permalink: /hkstp-core-facilities.html
 - Email: [bsc@hkstp.org](mailto:bsc@hkstp.org)
 - Phone: 2629-6683 / 2629-6600
 
-## Safety training
+## Safety Training
 - Obtain your HKSTP SMART card from CRMH HR.
 - Finish BSC safety training:
   1. Fill in [HKSTP-BSC-online-training.xlsx](/files/HKSTP-BSC-online-training.xlsx).

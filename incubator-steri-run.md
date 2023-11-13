@@ -6,7 +6,7 @@ permalink: /incubator-steri-run.html
 
 # Incubator Steri-run
 
-## Before the steri-run
+## Before the Steri-run
 
 1. Drain all water
 2. Take out the bottom insert
@@ -16,7 +16,7 @@ permalink: /incubator-steri-run.html
 6. Place airbox back
 7. Place the bottom insert back
 
-## Running the steri-run
+## Running the Steri-run
 
 1. Press the steri-run key
 2. Press the START key
@@ -27,7 +27,7 @@ permalink: /incubator-steri-run.html
 7. Close door
 8. Check that steri-run status bar is shown
 
-## After the steri-run
+## After the Steri-run
 
 1. Open door
 2. Refill water

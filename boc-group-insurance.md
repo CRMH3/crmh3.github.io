@@ -4,29 +4,44 @@ title: BOC group insurance
 permalink: /boc-group-insurance.html
 ---
 
-# BOC group insurance
+# BOC Group Insurance
 
-When you report duty, you will receive your Bank of China (BOC) group insurance card from the HR, along with the instruction to login and change your password.
+## Receiving Your BOC Group Insurance Card
 
-## Log in BOC group insurance
-
-[![](https://raw.githubusercontent.com/tosingfung/images/master/image-20230613140455202.png)](https://raw.githubusercontent.com/tosingfung/images/master/image-20230613140455202.png){:target="_blank"}
-
-#### Go to [http://www.bocgins.com/](http://www.bocgins.com/). Hover to **Service Support** on the top right corner. Click on **Group Medical Policy Enquiry**.
-
-[![](https://raw.githubusercontent.com/tosingfung/images/master/image-20230613142525591.png)](https://raw.githubusercontent.com/tosingfung/images/master/image-20230613142525591.png){:target="_blank"}
-
-#### Enter your information to log in.
-
-[![](https://raw.githubusercontent.com/tosingfung/images/master/image-20230613141809977.png)](https://raw.githubusercontent.com/tosingfung/images/master/image-20230613141809977.png){:target="_blank"}
-
-#### You can see your plan once you log in. Click on **Panel Doctor List** to search for eligible doctors. Click on **Out-Patient Claims** to upload your  medical bill.
+- One to two months after you report duty, you will receive your Bank of China (BOC) group insurance card from the CRMH HR.
+- In the card number 03368 - ***
+  - 03368 is the policy number;
+  - The last three digit is your staff number.
 
 
+## Log in BOC Group Insurance
 
-## Attachments
+- Go to: https://www.bocgins.com/index.html?url=html/service/query_medical_group.html
+- Log in with the following:
+  - Policy number 03368
+  - Staff number ***
+  - Password. **Password of new user or first login after policy renewal is the 2nd to 7th digits of HKID. For example, for A123456(7), please enter 123456.**
 
-> Inpatient and dental claim forms must be send to BOC by mail with original copies of relevant documents. Outpatient claim forms can be uploaded online.
+## Out-Patient Claims
+
+- Click on **Out-Patient Claims** to upload your medical invoice/receipt.
+- Click on **Claims Record** to check the claim status.
+
+## In-Patient Claims
+
+- You must ask the doctor to fill in the paper in-patient claim form and send it to BOC by mail, together with original copies of all proof (invoices, receipts, etc.)
+- [boc-group-insurance-claim-form-inpatient.pdf](/files/boc-group-insurance-claim-form-inpatient.pdf)
+- BOC Address:
+  - 香港中環德輔道中71號永安集團大廈九樓
+  - 9/F., Wing On House, 71 Des Voeux Road Central, Hong Kong
+  - Tel: 3187 5100 / Fax: 3906 9906
+
+## Enquiry
+
+- Alex AU
+- Tel: 9601 0766 (Preferably WhatsApp)
+
+## Forms and References
 
 - [boc-group-insurance-first-time-password.pdf](/files/boc-group-insurance-first-time-password.pdf)
 - [boc-group-insurance-benefit-schedule.pdf](/files/boc-group-insurance-benefit-schedule.pdf)

@@ -6,13 +6,13 @@ permalink: /basic-safety-training.html
 
 # Basic Safety Training
 
-## Step 1: Study materials
+## Step 1: Study Materials
 - [handling-biohazardous-spill.pdf](/files/handling-biohazardous-spill.pdf)
 - [handling-chemical-spill.pdf](/files/handling-chemical-spill.pdf)
 - [HKSTP-biological-safety-101.pdf](/files/HKSTP-biological-safety-101.pdf)
 - [HKSTP-chemical-safety-101.pdf](/files/HKSTP-chemical-safety-101.pdf)
 
-## Step 2: Pass the online test
+## Step 2: Pass the Online Test
 1. Send your name, email and phone to Martin.
 2. Martin requests IT to create your account in the CRMH booking system.
 3. Use CRMH Wi-Fi (intranet) to access the online test.

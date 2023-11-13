@@ -6,7 +6,7 @@ permalink: /dangerous-goods.html
 
 # Dangerous Goods
 
-## How do I know if it is a DG?
+## How Do I Know if It Is a DG?
 
 - Download SDS from supplier's website
 - If not available, try the following sources:
@@ -14,11 +14,14 @@ permalink: /dangerous-goods.html
   - [Fisher Scientific](https://www.fishersci.com/us/en/catalog/search/sdshome.html)
 - Check the UN code under **14. transport information**.
   - Pay attention to the package group (PG)!
-- Check GEQ (column 5) in [HK e-legislation](https://www.elegislation.gov.hk/hk/cap295E).
+- Use the UN code to search GEQ (column 5) in [HK e-legislation](https://www.elegislation.gov.hk/hk/cap295E).
   - Gas/liquid: 1 unit = 1 L
   - Solid: 1 unit = 1 Kg
+- If the GEQ is **none**, you cannot purchase the chemical.
+  - Pay attention to the package group (PG)!
 
-## DG class
+
+## DG Class
 
 | **Class** | **Explanation**                          |
 | --------- | ---------------------------------------- |

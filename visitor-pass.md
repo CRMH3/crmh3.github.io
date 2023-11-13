@@ -4,23 +4,24 @@ title: Visitor pass
 permalink: /visitor-pass.html
 ---
 
-# Apply for visitor pass
+# Visitor Pass
 
-Prepare the following documents and send to the lab manager. You also need an octopus card (or a device with NFC) onto which your office/lab access will be registered.
+## Non-R&D Visitors
 
-### Documents for HR
-1. Signed and stamped PI letter [(template)](/files/visitor-pass-pi-letter-template.pdf).
-2. Scanned PDF of your HKID and staff/student ID card;
-3. Your resume with contact details;
-4. [Visitor pass application form (HR)](/files/visitor-pass-app-form-hr.pdf) signned by a full-time staff;
+Prepare the following documents and send to Martin:
 
-### Documents for F&OC
+- [Visitor pass application form](/files/visitor-pass-app-form-hr.pdf)
 
-> Only for visitors that will conduct R&D activities in CRMH.
+## R&D Visitors
 
-1. [Visitor pass for lab access (F&OC)](/files/visitor-pass-for-lab-access-foc.pdf) signned by a full-time staff and PI;
-2. Email sent by PI to Professor Micky Tortorella and the lab manager, CC to your university/department's HR or general office [(template)](/files/visitor-pass-pi-email-template.pdf).
+Prepare the following documents and send to Martin:
 
+- Documents required by HR
+  - [Visitor pass application form](/files/visitor-pass-app-form-hr.pdf)
+  - PI letter [(template)](/files/visitor-pass-pi-letter-template.pdf)
+  - Scanned PDF of HKID and staff/student ID
+  - Resume with contact details
 
-
-
+- Documents required by F&OC
+  - [Visitor pass for lab access](/files/visitor-pass-for-lab-access-foc.pdf)
+  - An Email sent from your supervisor (PI) to Professor Micky and Martin, CC to your university/department's HR [(template)](/files/visitor-pass-pi-email-template.pdf)

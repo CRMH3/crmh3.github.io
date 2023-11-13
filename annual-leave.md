@@ -4,13 +4,13 @@ title: Annual leave
 permalink: /annual-leave.html
 ---
 
-# Annual leave
+# Annual Leave
 - Seek PI approval with your CRMH email and CC to Martin.
-- Apply for leave in [Kingdee](https://hkisi.ik3cloud.com/k3cloud/html5/index.aspx) (see screenshots below).
+- Apply for leave in KingDee: https://hkisi.ik3cloud.com/k3cloud/html5/index.aspx
 - Please send a message to Martin and CRMH HR when you leave and return.
 
 
-## Kingdee screenshots
+## Kingdee Screenshots
 
 ![](https://raw.githubusercontent.com/tosingfung/images/master/image-20230701165226145.png)
 
