@@ -4,32 +4,52 @@ title: Request for travel
 permalink: /request-for-travel.html
 ---
 
-# Request for travel
+# Request for Travel and Reimbursement
 
-All full-time staff must seek approval from PI and Centre director, before travelling outside Hong Kong for academic or other events.
+## Before the Trip
 
-## Before the trip
+1. Complete and sign the **Request for Travel** form:
 
-Confirm with your supervisor that he/she endorses your trip. For academic events, obtain the invitatioin letter from the organizer. If you need to register for an event, screenshot all the transaction and payment. Estimate the travel expense, including the event registration fee, inter-city transportation, urban transportation, accommodation and meal expense. Check with the lab manager for the updated Centre policy on the reimbursement of travel expense.
+   - [request-for-travel.pdf](/files/request-for-travel.pdf) 
+2. Send an email to Professor Micky to seek approval. 
+   - Use your CRMH email;
+   - Clearly states the date and purpose of your trip;
+   - Attach the Request for Travel form in the email.
+   - CC Martin. Or forward his approval email to Martin.
+3. Forward Professor Micky's approval email to Professor Pan to seek his approval.
+   - CC Martin. Or forward his approval email to Martin.
 
-Complete and sign the **Request for Travel** form:
+## Reimbursement Rules
 
-- [request-for-travel.pdf](/files/request-for-travel.pdf) 
+- **Payment proof. Remember to keep all original copies of payment proof including invoice, receipt and screenshot of WeChat/AliPay/bank transfer, etc.** 
+- [guideline-for-travel-reimburse-inside-china.pdf (Chinese only)](/files/guildline-for-travel-reimburse-inside-china.pdf)
+- [guideline-for-travel-reimburse-international.pdf (Chinese only)](/files/guildline-for-travel-reimburse-international.pdf)
 
-Request for approval by Professor Micky Tortorella and Professor Pan (Director). Alternatively, you can send them the Request for Travel by email, and ask them to endorse by replying to your email. You should save their email replies as PDF files.
+- Conference registration
+  - Save event webpage and/or invitation email (with pricing) as PDF.
+- Accommodation
+  - Check the accommodation fee standard in the guideline above.
+  - The amount exceeding the standard cannot be reimbursed.
+- Inter-City transportation
+  - Check the transportation fee standard in the guideline above.
+  - Unless unavailable, only point-to-point transportation is allowed. No detour!
+- Intra-City transportation
+  - Taxi/ride-hailing in Hong Kong or in a foreign country cannot be reimbursed.
+  - Taxi/ride-hailing in mainland China can be reimbursed. For taxi, keep the receipt (with date, time and fee) and provide further information: start location, stop location and purpose of the taxi ride. For ride-hailing app, save screenshot that include the following information: date, time, start location, stop location and payment proof. 
+- Meal allowance
+  - Check the accommodation fee standard in the guideline above.
 
-## During the trip
+## After the Trip
 
-- Stay safe
-- Keep all proof of payment (receipt, cell phone screenshot, paper/electronic ticket...)
+1. Scanned all the paper-based payment proof as images.
 
-## After the trip
+2. Compile all travel expense proofs and reasons into one PPT:
 
-1. Digitalize all revevant documents to upload to Kingdee. Choose **Non-R&D expenditure** in Doc Type. Choose **Admin Departments** in Expense Bearing Dept. List the details of travel expense.
-2. After the PO is approved, print out the approval form.
-3. Submit the approval form, together with all original copies of supporting documents to the Finance Department.
+   - [Empty A4 PowerPoint](/files/empty-ppt-a4-landscape.pptx) 
 
-## Reference (Chinese)
+   - [Template: Travel Expense Reimbursement](/files/travel-expense-reimburse-template.pdf)
 
-- [guildline-for-travel-reimburse-inside-china.pdf](/files/guildline-for-travel-reimburse-inside-china.pdf)
-- [guildline-for-travel-reimburse-international.pdf](/files/guildline-for-travel-reimburse-international.pdf)
+3. Send the PPT to Martin.
+4. Martin upload the materials to KingDee.
+5. After approval, send all original copies of payment proof to Martin.
+6. CRMH HR and finance proceed to reimbursement.
