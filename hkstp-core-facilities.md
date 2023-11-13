@@ -20,8 +20,6 @@ permalink: /hkstp-core-facilities.html
 - Phone: 2629-6683 / 2629-6600
 
 ## Safety training
-> Access to BSC is only granted after you finish the safety training.
-
 - Obtain your HKSTP SMART card from CRMH HR.
 - Finish BSC safety training:
   1. Fill in [HKSTP-BSC-online-training.xlsx](/files/HKSTP-BSC-online-training.xlsx).
@@ -30,16 +28,7 @@ permalink: /hkstp-core-facilities.html
   4. Complete and pass the online quiz.
   5. Reply to BSC and request a lab walk-through.
   6. Show staff ID and sign attendance.
-  7. BSC sends to you an confirmation email.
+  7. BSC sends an confirmation email to you.
 - Forward BSC confirmation email to Martin.
 - Martin forward the email to CRMH HR.
 - CRMH HR request HKSTP to grant access right to your SMART card.
-
-## Safety assessment
-
-> Some R&D activities must be approved by HKSTP’s Safety Office. Check with BSC.
-
-1. Register for HKSTP OnePass with CRMH email.
-2. Fill in this [e-form](https://secure-web.cisco.com/1pWLomjUgh2hQrisVotFMd6YRhzGfgMMCcnFtWZ1S_32Z1CBC7vjHVoRciNjzBW3ex6kJ6BVqsbW7IxYhPdkXbuFgr1UQwfYtaoObkcA8os9_wnkCvkmwGhBYj-kHmcT81u2JyZplOtwwSkxOlrxc8UnXRtjv3jE76u8GMk8S04i-w5p9_oSBnWWPzkeIbU8FT5sdZTTLJkAANpJK6VvJvzyaC5H3ArUvf6Uwk1loEbCAhEgWmArHrVZVTxGvnMRaFH90GQYmHXvQAVQ1Xw7yMooTiIymrvb4t2E-mF1j6UFFhJ0_MNuUdswePUEyTwMi/https%3A%2F%2Fitapps.plumsail.io%2Fa032535b-7d91-4f5d-b149-a42e181ae60d).
-3. Wait for the approval email from HKSTP.
-
