@@ -23,18 +23,18 @@ permalink: /dangerous-goods.html
 
 ## DG Class
 
-| **Class** | **Explanation**                          |
-| --------- | ---------------------------------------- |
-| 2.1       | Flammable gases                          |
-| 2.2       | Non-flammable and non-toxic gases        |
-| 2.3       | Toxic gases                              |
-| 3         | Flammable liquids                        |
-| 3A        | Diesel, fuel oil, and furnace oil        |
-| 4.1       | Flammable solids                         |
-| 4.2       | Spontaneous combustion                   |
-| 4.3       | Contact with water, emit flammable gases |
-| 5.1       | Oxidizing substances                     |
-| 5.2       | Organic peroxides                        |
-| 6.1       | Toxic substances                         |
-| 8         | Corrosive substances                     |
-| 9         | Miscellaneous                            |
+| **Class** | **Explanation**                                 |
+| --------- | ----------------------------------------------- |
+| 2.1       | Flammable gases                                 |
+| 2.2       | Non-flammable and non-toxic gases               |
+| 2.3       | Toxic gases                                     |
+| 3         | Flammable liquids                               |
+| 3A        | Diesel, fuel oil, and furnace oil               |
+| 4.1       | Flammable solids                                |
+| 4.2       | Spontaneous combustion                          |
+| 4.3       | Emit flammable gases when in contact with water |
+| 5.1       | Oxidizing substances                            |
+| 5.2       | Organic peroxides                               |
+| 6.1       | Toxic substances                                |
+| 8         | Corrosive substances                            |
+| 9         | Miscellaneous                                   |

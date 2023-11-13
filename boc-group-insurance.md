@@ -16,7 +16,7 @@ permalink: /boc-group-insurance.html
 
 ## Log in BOC Group Insurance
 
-- Go to: https://www.bocgins.com/index.html?url=html/service/query_medical_group.html
+- [https://www.bocgins.com/index.html?url=html/service/query_medical_group.html](https://www.bocgins.com/index.html?url=html/service/query_medical_group.html)
 - Log in with the following:
   - Policy number 03368
   - Staff number ***
