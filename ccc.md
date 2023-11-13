@@ -9,7 +9,6 @@ permalink: /ccc.html
 ## Lift access to 9W 1/F
 
 To use the lift in 9W:
-
 - Obtain your HKSTP SMART card from CRMH HR.
 - Finish BSC safety training:
   1. Fill in [HKSTP-BSC-online-training.xlsx](/files/HKSTP-BSC-online-training.xlsx).
@@ -24,16 +23,12 @@ To use the lift in 9W:
 - CRMH HR request HKSTP to grant access right to your SMART card.
 
 
-
 ## CCC9 and CCC10 Room Cards 
 
 - There are three sets of room cards (2 cards each set: CCC9 and CCC10).
-
   - Card set 1 is kept by Martin.
   - Card set 2 is kept by Yican.
-
   - Card set 3 is kept by Cleopatra.
-
 - You can borrow card set 1 from Martin. [Check-out Record (read-only)](https://docs.google.com/spreadsheets/d/1_jzkNZCneuPwssDJ7jqddXT7HanjAzeBXp4XfzELjSw)
 - Please return card set 1 to Martin within 72 hours.
 - Please leave a message in the RP3-CCC WeChat group, if:
