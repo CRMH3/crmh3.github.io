@@ -19,7 +19,7 @@ permalink: /purchase-rnd.html
   - Service contract from the chosen supplier;
   - Carefully examine the confidentiality and payment terms;
   - Seek approval from Professor Micky by email (attach service contract);
-  - CC to Martin or forward his approval email to Martin;
+  - Forward Professor Micky's approval email to Martin;
 
 ## Upload to OneDrive
 
@@ -42,7 +42,7 @@ permalink: /purchase-rnd.html
 ## Check Approval Status and Confirm Order
 
 1. After upload to KingDee, a PO number like **CRMH2023-010001** will be generated.
-2. You can check the status of the PO in [this Google Sheet](https://docs.google.com/spreadsheets/d/15i1mifg1eu3V0C2jr4KVoT_91uvnBa-sHtmegGWxzd0). 
+2. You can check the status of the PO in [this Excel file (read-only)](https://cashkisi-my.sharepoint.com/:x:/g/personal/martin_fung_crmh-cas_org_hk/EWpPTqU-goVKu0fkl1pR_FABWuC3BF1x_aTBMkj2YWLAGQ). 
    - Red: not yet approved
    - Yellow: approved
 3. **Confirm quotation with the supplier ONLY AFTER the PO is approved!**
