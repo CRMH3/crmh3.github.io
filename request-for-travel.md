@@ -9,7 +9,6 @@ permalink: /request-for-travel.html
 ## Before the Trip
 
 1. Complete and sign the **Request for Travel** form:
-
    - [request-for-travel.pdf](/files/request-for-travel.pdf) 
 2. Send an email to Professor Micky to seek approval. 
    - Use your CRMH email;
@@ -24,7 +23,6 @@ permalink: /request-for-travel.html
 - **Payment proof. Remember to keep all original copies of payment proof including invoice, receipt and screenshot of WeChat/AliPay/bank transfer, etc.** 
 - [guideline-for-travel-reimburse-inside-china.pdf (Chinese only)](/files/guildline-for-travel-reimburse-inside-china.pdf)
 - [guideline-for-travel-reimburse-international.pdf (Chinese only)](/files/guildline-for-travel-reimburse-international.pdf)
-
 - Conference registration
   - Save event webpage and/or invitation email (with pricing) as PDF.
 - Accommodation
@@ -42,13 +40,9 @@ permalink: /request-for-travel.html
 ## After the Trip
 
 1. Scanned all the paper-based payment proof as images.
-
 2. Compile all travel expense proofs and reasons into one PPT:
-
    - [Empty A4 PowerPoint](/files/empty-ppt-a4-landscape.pptx) 
-
    - [Template: Travel Expense Reimbursement](/files/travel-expense-reimburse-template.pdf)
-
 3. Send the PPT to Martin.
 4. Martin upload the materials to KingDee.
 5. After approval, send all original copies of payment proof to Martin.
